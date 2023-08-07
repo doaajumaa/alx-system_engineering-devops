@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "^[[Alaphabet]]" /etc/ssh/sshd_config
